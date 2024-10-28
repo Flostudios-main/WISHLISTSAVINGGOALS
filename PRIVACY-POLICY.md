@@ -1,7 +1,7 @@
 ## Privacy Policy
 
-This Privacy Policy statement is made by Flostudios, consisting of all the entities listed here (
-collectively referred to as "Flostudios," "we," "us," or "our"). Our mission is to help people
+This Privacy Policy statement is made by Flostudios-main, consisting of all the entities listed here (
+collectively referred to as "Flostudios-main," "we," "us," or "our"). Our mission is to help people
 protect their privacy, data, and devices from online threats. Wishlist: Saving Goals does not track you with ads
 or abuse your privacy. We do not require you to create any kind of account with your personally
 identifiable information in order to use the app.
@@ -20,8 +20,8 @@ If you have found a bug or vulnerability in the Wishlist: Saving Goals app, ther
 problem so we can fix it:
 
 - Writing us an email with a detailed description of the issue you're facing.
-- Contacting us in our [Telegram](https://t.me/Flostudios) support group.
-- Creating an issue on the [GitHub](https://github.com/SYSTEMGNWN/wishlistsavinggoals) repository of the
+- Contacting us in our [Telegram](https://t.me/Flostudios-main) support group.
+- Creating an issue on the [GitHub](https://github.com/Flostudios-main/WISHLISTSAVINGGOALS/issues) repository of the
   app.
 
 This Privacy Policy is subject to updates without any prior notice.
